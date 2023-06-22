@@ -1,0 +1,9 @@
+,Total_Number_Outages,Outage_Reason,Year
+0,181,Consequential,2016
+1,127,Consequential,2017
+2,1264,Forced,2016
+3,1622,Forced,2017
+4,106,Opportunistic Maintenance (Planned),2016
+5,102,Opportunistic Maintenance (Planned),2017
+6,380,Scheduled (Planned),2016
+7,320,Scheduled (Planned),2017

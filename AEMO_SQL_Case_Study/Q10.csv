@@ -1,0 +1,4 @@
+,Participant_Code,Facility_Code,Description_Of_Outage,Total_Energy_Lost,Pct_Energy_Loss,rank
+0,GW,BW1_GREENWATERS_G2,Operational Issues caused real time forced outage.,35077.94,23.03,1
+1,AURICON,AURICON_PNJ_U1,Under generation - ambient conditions,32335.82,21.23,1
+2,MELK,MELK_G7,Boiler feedpump capacity,24056.47,15.79,1
