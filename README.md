@@ -23,10 +23,10 @@
 *Review the Python Script:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Airbnb_Case_Study/Airbnb%20Case%20Study%20Jupyter.ipynb)**<br />
 
 - [x] **Excel** -
- - EBIT Case Study Project <br />
+  - EBIT Case Study Project <br />
 *Review the Excel Sheets:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern%20Water%20Corp%20EBIT%20Analysis%20(Adriana%20Kane).xlsx)**<br />
 *Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Presentation%20Southern%20Water%20Corp%20EBIT%20%5BAdriana%20Kane%5D.pptx)**<br />
- - Southern Water Corporation Economics Project <br />
+  - Southern Water Corporation Economics Project <br />
 *Review the Excel Sheets:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Presentation%20Southern%20Water%20Corp%20Economics%20%5BAdriana%20Kane%5D%20pptx.pptx)**<br />
 *Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE]()**<br />
  
