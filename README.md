@@ -8,7 +8,7 @@
 
 - [x] **Python & Tableau** - 
   - E-commerce Customer Churn Project<br />
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/shared/MH3Y57Y5N?:display_count=n&:origin=viz_share_link)**<br />
+*See on Tableau Public:* **[Presentation](https://public.tableau.com/views/Ecommerce_16862726345500/EcommerceStory?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
 *Review the Python Code:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Customer_Churn_Notebook_Project/Customer_Churn_Notebook_Final.ipynb)**<br />
 
 - [x] **Python & SQL** - 
