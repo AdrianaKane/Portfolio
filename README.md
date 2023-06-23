@@ -38,19 +38,19 @@
 
 - Customer Churn E-commerce Dashboard: https://public.tableau.com/app/profile/adriana.kane/viz/EcommerceDashboard_16873148098730/EcommerceDashboard
 
-![Customer Churn E-commerce](visuals/EcommerceDashboard.png)  
+<img src="https://github.com/AdrianaKane/Images/blob/main/Screen%20Shot%202023-06-22%20at%208.32.31%20PM.png" width="400" height="300" allow="autoplay">
 
 - Happiness Dataset Project: https://public.tableau.com/app/profile/adriana.kane/viz/HappinessnonTechnicalPresentationFinal/HappinessProject 
 
 - Happiness Dataset Dashboard: https://public.tableau.com/app/profile/adriana.kane/viz/HappinessDashboard_16837388116430/FinalHappinesDashboard
 
-![Municipality Data Analysis](visuals/HappinessDashboard.png)  
+<img src="https://github.com/AdrianaKane/Images/blob/main/Screen%20Shot%202023-06-23%20at%2010.35.04%20AM.png" width="400" height="300" allow="autoplay"> 
 
 - Chemical Corporation Presentation: https://public.tableau.com/app/profile/adriana.kane/viz/ChemCorpTechnicalPresentation/TechnicalPresentation
 
 - Chemical Corporation Dashboard:https: https://public.tableau.com/views/ChemCorpTechnicalDashboard/ChemCorpDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
   
-![GROVER Junior Data Analyst](visuals/ChemCorpTechnicalDashboard.png)  
+<img src="https://github.com/AdrianaKane/Images/blob/main/Screen%20Shot%202023-06-23%20at%2010.35.50%20AM.png" width="400" height="3g00" allow="autoplay">
 
 
 
