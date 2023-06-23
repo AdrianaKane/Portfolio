@@ -6,10 +6,10 @@
 
 
 
-- [x] **Python & Tableau** - 
+- [x] **Python & Tableau** -
   - E-commerce Customer Churn Project<br />
-*See on Tableau Public:* **[Presentation](https://public.tableau.com/views/Ecommerce_16862726345500/EcommerceStory?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
 *Review the Python Code:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Customer_Churn_Notebook_Project/Customer_Churn_Notebook_Final.ipynb)**<br />
+*See on Tableau Public:* **[Presentation](https://public.tableau.com/views/Ecommerce_16862726345500/EcommerceStory?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
 
 - [x] **Python & SQL** - 
   - AEMR Case Study Project <br />
