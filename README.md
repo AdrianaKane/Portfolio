@@ -50,7 +50,7 @@
 
 - Chemical Corporation Dashboard:https: https://public.tableau.com/views/ChemCorpTechnicalDashboard/ChemCorpDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
   
-<img src="https://github.com/AdrianaKane/Images/blob/main/Screen%20Shot%202023-06-23%20at%2010.35.50%20AM.png" width="400" height="3g00" allow="autoplay">
+<img src="https://github.com/AdrianaKane/Images/blob/main/Screen%20Shot%202023-06-23%20at%2010.35.50%20AM.png" width="400" height="300" allow="autoplay">
 
 
 
