@@ -40,7 +40,7 @@
 
 <img src="https://github.com/AdrianaKane/Images/blob/main/Screen%20Shot%202023-06-22%20at%208.32.31%20PM.png" width="400" height="300" allow="autoplay">
 
-- Happiness Dataset Project: https://public.tableau.com/app/profile/adriana.kane/viz/HappinessnonTechnicalPresentationFinal/HappinessProject 
+- Happiness Dataset Project: https://public.tableau.com/views/HappinessnonTechnicalPresentationFinal/HappinessProject?:language=en-US&:display_count=n&:origin=viz_share_link  
 
 - Happiness Dataset Dashboard: https://public.tableau.com/app/profile/adriana.kane/viz/HappinessDashboard_16837388116430/FinalHappinesDashboard
 
