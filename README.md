@@ -23,15 +23,17 @@
 *Review the Python Script:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Airbnb_Case_Study/Airbnb%20Case%20Study%20Jupyter.ipynb)**<br />
 
 - [x] **Excel** -
-- EBIT Case Study Project <br />
+- EBIT Project <br />
 *Review the Excel Sheets:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern%20Water%20Corp%20EBIT%20Analysis%20(Adriana%20Kane).xlsx)**<br />
 *Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Presentation%20Southern%20Water%20Corp%20EBIT%20%5BAdriana%20Kane%5D.pptx)**<br />
-- Southern Water Corporation Economics Project <br />
+- Economics Project <br />
 *Review the Excel Sheets:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Presentation%20Southern%20Water%20Corp%20Economics%20%5BAdriana%20Kane%5D%20pptx.pptx)**<br />
-*Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE]()**<br />
- 
-- [x] **Tableau** - 
+*Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Presentation%20Southern%20Water%20Corp%20Economics%20%5BAdriana%20Kane%5D%20pptx.pptx)**<br />
+- Statistics Project <br />
+*Review the Excel Sheets:* **[HERE]([)](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern_Water_Corp_Statistics_Case_Study_Adriana%20Kane.xlsx)**<br />
+*Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern_Water_Corp_Statistics_Student_Reference_%20Adriana%20Kane.pptx)**<br />
 
+- [x] **Tableau** - 
 *To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
 
 - Customer Churn E-commerce Presentation:  https://public.tableau.com/views/Ecommerce_16862726345500/EcommerceStory?:language=en-US&:display_count=n&:origin=viz_share_link
