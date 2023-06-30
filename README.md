@@ -30,7 +30,7 @@
 *Review the Excel Sheets:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Presentation%20Southern%20Water%20Corp%20Economics%20%5BAdriana%20Kane%5D%20pptx.pptx)**<br />
 *Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Presentation%20Southern%20Water%20Corp%20Economics%20%5BAdriana%20Kane%5D%20pptx.pptx)**<br />
 - Statistics Project <br />
-*Review the Excel Sheets:* **[HERE]([)](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern_Water_Corp_Statistics_Case_Study_Adriana%20Kane.xlsx)**<br />
+*Review the Excel Sheets:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern_Water_Corp_Statistics_Case_Study_Adriana%20Kane.xlsx)**<br />
 *Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern_Water_Corp_Statistics_Student_Reference_%20Adriana%20Kane.pptx)**<br />
 
 - [x] **Tableau** - 
