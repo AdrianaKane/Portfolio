@@ -16,7 +16,7 @@
 *Review the SQL Script and Python Visualization:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/AEMO_SQL_Case_Study/AEMO%20CASE%20STUDY%20FINAL%202.ipynb)**<br />
 
 - [x] **Python** - 
-- Southern Water Corperation Case Study <br />
+- Southern Water Corporation Case Study <br />
 *Review the Python Script:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern_Water_Corp_OLS_Case.ipynb)**<br />
 *Review the Powerpoint Slides Deck to see the Data Visualizations:* **[HERE](https://github.com/AdrianaKane/Portfolio/blob/main/Southern_Water_Corporation_Case_Study/Southern_Water_Corp_Statistics_Student_Reference_%20Adriana%20Kane.pptx)**<br />
 - Airbnb Project <br />
